@@ -1,6 +1,6 @@
 # portfólio ciardileo
 ## todos os sites e projetos hospedados:
-- [site opensafe](ciardileo.github.io/opensafe/main_page/index.html)
+- [site opensafe](opensafe/main_page/index.html)
 - [site opr](ciardileo.github.io/sites_opr/opr/index.html)
 - [site ball's house](ciardileo.github.io/sites_opr/bh/index.html)
 - [site tia mi](ciardileo.github.io/tiamidentista/index.html)
